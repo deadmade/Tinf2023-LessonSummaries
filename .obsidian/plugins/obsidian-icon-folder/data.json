@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComputer",
+      "CoGlobe",
+      "LiCircuitBoard",
       "LiSchool",
-      "FiSun",
-      "FarSnowflake"
+      "FiSun"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +35,8 @@
   "DHBW Heidenheim": "LiSchool",
   "DHBW Heidenheim/2023 WiSe": "FarSnowflake",
   "DHBW Heidenheim/2024 SoSe": "FiSun",
-  "DHBW Heidenheim/2024 WiSe": "FarSnowflake"
+  "DHBW Heidenheim/2024 WiSe": "FarSnowflake",
+  "DHBW Heidenheim/2023 WiSe/Digitaltechnik": "LiCircuitBoard",
+  "DHBW Heidenheim/2023 WiSe/Web Engineering": "CoGlobe",
+  "DHBW Heidenheim/2023 WiSe/Theoretische Informatik": "LiComputer"
 }

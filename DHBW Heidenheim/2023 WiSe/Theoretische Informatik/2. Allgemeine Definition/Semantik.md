@@ -1,0 +1,1 @@
+Eine Semantik legt die Bedeutung von Wörtern fest
