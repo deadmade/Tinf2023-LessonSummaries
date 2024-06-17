@@ -1,0 +1,1 @@
+Detaillierte Festlegung der verwendeten Elemente einer Sprache
