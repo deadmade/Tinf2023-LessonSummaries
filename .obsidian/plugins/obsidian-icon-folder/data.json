@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiComputer",
+      "RiSafe2Line",
       "CoGlobe",
-      "LiCircuitBoard",
-      "LiSchool",
-      "FiSun"
+      "IbDocumentText",
+      "OcProjectRoadmap16",
+      "TiMath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,13 @@
   "DHBW Heidenheim/2024 WiSe": "FarSnowflake",
   "DHBW Heidenheim/2023 WiSe/Digitaltechnik": "LiCircuitBoard",
   "DHBW Heidenheim/2023 WiSe/Web Engineering": "CoGlobe",
-  "DHBW Heidenheim/2023 WiSe/Theoretische Informatik": "LiComputer"
+  "DHBW Heidenheim/2023 WiSe/Theoretische Informatik": "LiComputer",
+  "DHBW Heidenheim/2024 SoSe/Programmierung": "CoCode",
+  "DHBW Heidenheim/2024 SoSe/Netzwerktechnik": "LiNetwork",
+  "DHBW Heidenheim/2024 SoSe/Mathematik": "TiMath",
+  "DHBW Heidenheim/2024 SoSe/Projektmanagement": "OcProjectRoadmap16",
+  "DHBW Heidenheim/2024 SoSe/Theoretische Informatik": "LiComputer",
+  "DHBW Heidenheim/2024 SoSe/Wissenschaftliches Arbeiten": "IbDocumentText",
+  "DHBW Heidenheim/2024 SoSe/Web Engineering": "CoGlobe",
+  "DHBW Heidenheim/2024 SoSe/Sichere Programmierung": "RiSafe2Line"
 }
