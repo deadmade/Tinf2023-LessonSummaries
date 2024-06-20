@@ -58,3 +58,7 @@ Bietet eine verbesserte Suche.
 ## 📊 TikZ Jax
 
 [TikZ Jax](https://github.com/artisticat1/obsidian-tikzjax) ist ein Plugin, das es ermöglicht, LaTeX-Figuren in Obsidian zu erstellen.
+
+##  Full Calendar
+
+Full Calender ist ein Plugin, das es ermöglicht ical Calendar einzubinden. Zum aktuellen Zeitpunkt sind die Zeiten sehr komisch. 
