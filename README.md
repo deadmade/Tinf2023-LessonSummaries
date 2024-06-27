@@ -62,3 +62,6 @@ Bietet eine verbesserte Suche.
 ##  Full Calendar
 
 Full Calender ist ein Plugin, das es ermöglicht ical Calendar einzubinden. Zum aktuellen Zeitpunkt sind die Zeiten sehr komisch. 
+
+## Timeline
+Timeline ist ein Plugin um eine Zeitleiste zu erstellen. Beispielsweiße hier [[2. C, wie alles began]]
