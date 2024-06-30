@@ -1,0 +1,7 @@
+[[1. Allgemein]]
+[[2. Variablen]]
+[[3.Strukturierte Programmierung]]
+[[4. Operatoren]]
+[[1. Arrays]]
+[[1. Funktionen]]
+[[1. Strukturen]]
