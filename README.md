@@ -59,9 +59,9 @@ Bietet eine verbesserte Suche.
 
 [TikZ Jax](https://github.com/artisticat1/obsidian-tikzjax) ist ein Plugin, das es ermöglicht, LaTeX-Figuren in Obsidian zu erstellen.
 
-##  Full Calendar
+##  📅Full Calendar
 
 Full Calender ist ein Plugin, das es ermöglicht ical Calendar einzubinden. Zum aktuellen Zeitpunkt sind die Zeiten sehr komisch. 
 
-## Timeline
+## 📈Timeline
 Timeline ist ein Plugin um eine Zeitleiste zu erstellen. Beispielsweiße hier [[2. C, wie alles began]]
