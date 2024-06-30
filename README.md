@@ -1,25 +1,31 @@
 # 🌟 Tinf2023-LessonSummaries
-Dies ist ein Obsidian Vault des Semesters Tinf2023 an der DHBW Heidenheim. Dieser Vault dient dazu, die im Unterricht erhaltenen Informationen für alle aus unserem Semester ordentlich und strukturiert zusammenzufassen, um jeden beim Lernen zu unterstützen sowie eine Wissensdatenbank zum Nachschlagen bereitzustellen. Er soll das OneNote-Notizbuch ablösen. Der Vault wird über GitHub synchronisiert, um Kosten zu sparen und eine Versionskontrolle sowie Branches zu bieten.
 
-# 👨‍💼 Admins 
-- Manuel 
+Dies ist ein Obsidian Vault für das Semester Tinf2023 an der DHBW Heidenheim. Dieser Vault dient dazu, die im Unterricht vermittelten Informationen ordentlich und strukturiert zusammenzufassen. Er unterstützt alle beim Lernen und bietet eine Wissensdatenbank zum Nachschlagen. Ziel ist es, das OneNote-Notizbuch zu ersetzen. Der Vault wird über GitHub synchronisiert, um Kosten zu sparen und Versionskontrolle sowie Branches zu ermöglichen.
+
+# 👨‍💼 Admins
+
+- Manuel
   (Noch in Arbeit)
 
-# 📂 Regeln für einzelne Ordner bzw. Notes
-Die einzelnen Ordner und Notes, die erstellt wurden, sollten, wenn es ein passendes Icon gibt, mit einem solchen versehen werden. Es ist auch möglich, ein Custom Icon Pack hinzuzufügen, um Icons aus dem Internet zu verwenden.
+# 📂 Regeln für einzelne Ordner und Notizen
+
+Erstellte Ordner und Notizen sollten, falls vorhanden, mit passenden Icons versehen werden. Es ist auch möglich, ein Custom Icon Pack hinzuzufügen, um Icons aus dem Internet zu verwenden.
 
 # ✍️ Wie kann man beitragen?
-Jeder Benutzer hat seinen eigenen Branch, in dem er Zusammenfassungen erstellen kann. Jeder Branch sollte den Namen des Benutzers tragen, z.B. für mich: ManuelSchülein, um eine bessere Identifikation zu ermöglichen. 
 
-Sobald eine Zusammenfassung oder andere Änderung im Branch des jeweiligen Benutzers vorliegt und diese für alle zur Verfügung gestellt werden soll, muss ein Pull-Request erstellt werden. In diesem muss das Fach und der behandelte Stoff eingetragen werden. Bitte immer nur pro Stoffabschnitt einen Pull-Request stellen. 
+Für jede Zusammenfassung sollte ein eigener Branch erstellt werden. Der Name des Branches sollte das Fach und die jeweilige Überschrift der Zusammenfassung enthalten. Bei anderen Änderungen, wie dem Hinzufügen von Plugins, sollte der Name ebenfalls sinnvoll formuliert werden.
 
-Die Pull-Requests werden dann von den Admins überprüft, um sicherzustellen, dass alles Notwendige in der Zusammenfassung steht und um es zu ermöglichen, dass alle Zusammenfassungen ähnlich aufgebaut sind. Falls alles passt, wird der Pull-Request genehmigt und alle anderen können die Zusammenfassung in ihre Branches mergen.
+Sobald eine Zusammenfassung oder andere Änderung im Branch des jeweiligen Benutzers vorliegt und diese für alle zur Verfügung gestellt werden soll, muss ein Pull-Request erstellt werden. Bitte immer nur pro Stoffabschnitt einen Pull-Request stellen.
+
+Die Pull-Requests werden von den Admins überprüft, um sicherzustellen, dass alle notwendigen Informationen in der Zusammenfassung enthalten sind und dass alle Zusammenfassungen ähnlich aufgebaut sind. Falls alles passt, wird der Pull-Request genehmigt.
 
 # 🔌 Plugins
-Um die Arbeit zu erleichtern, wurden einige nützliche Plugins in den Vault hinzugefügt, welche nachfolgend erklärt werden.
+
+Um die Arbeit zu erleichtern, wurden einige nützliche Plugins in den Vault hinzugefügt, die nachfolgend erklärt werden.
 
 ## 💻 Code Emitter
-[Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) ermöglicht es, auf jeder Plattform Code-Schnipsel auszuführen. Dies wird ermöglicht, indem der Code an externe Compiler gesendet wird.
+
+[Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) ermöglicht es, auf jeder Plattform Code-Schnipsel auszuführen, indem der Code an externe Compiler gesendet wird.
 
 Beispiel C:
 ```cpp
@@ -39,13 +45,14 @@ int main() {
     return 0;
 }
 ```
+
 ## 🗂 Folder Notes
 
-Dieses Plugin ermöglicht es, für Ordner auch ein eigenes Note anzulegen. Dies ist möglich, indem man Rechtsklick auf den Ordner → Folder Notes Command → Create Markdown Folder Note wählt.
+Dieses Plugin ermöglicht es, für Ordner eigene Notizen anzulegen. Dies ist möglich, indem man mit einem Rechtsklick auf den Ordner → Folder Notes Command → Create Markdown Folder Note wählt.
 
 ## 🖼 Iconize
 
-Ermöglicht es, Ordnern oder Notes individuelle Icons hinzuzufügen.
+Ermöglicht es, Ordnern oder Notizen individuelle Icons hinzuzufügen.
 
 ## 🔍 Omnisearch
 
@@ -53,15 +60,17 @@ Bietet eine verbesserte Suche.
 
 ## 🧮 Quick LaTeX
 
-[Quick LaTeX](https://github.com/joeyuping/quick_latex_obsidian) ermöglicht es, mathematisches LaTeX zu schreiben.
+[Quick LaTeX](https://github.com/joeyuping/quick_latex_obsidian) ermöglicht es, mathematische Formeln in LaTeX zu schreiben.
 
 ## 📊 TikZ Jax
 
 [TikZ Jax](https://github.com/artisticat1/obsidian-tikzjax) ist ein Plugin, das es ermöglicht, LaTeX-Figuren in Obsidian zu erstellen.
 
-##  📅Full Calendar
+## 📅 Full Calendar
 
-Full Calender ist ein Plugin, das es ermöglicht ical Calendar einzubinden. Zum aktuellen Zeitpunkt sind die Zeiten sehr komisch. 
+Full Calendar ist ein Plugin, das es ermöglicht, iCal-Kalender einzubinden. Zum aktuellen Zeitpunkt sind die Zeiten jedoch noch etwas ungenau.
 
-## 📈Timeline
-Timeline ist ein Plugin um eine Zeitleiste zu erstellen. Beispielsweiße hier [[2. C, wie alles began]]
+## 📈 Timeline
+
+Timeline ist ein Plugin, um eine Zeitleiste zu erstellen, beispielsweise hier: [[2. C, wie alles begann]]
+
