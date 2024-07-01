@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗣",
       "🧱",
       "FasMagnifyingGlass",
       "LiJoystick",
-      "TiSwitch",
-      "RiGlobalFill"
+      "TiSwitch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -139,5 +139,6 @@
   "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung/2. Switch Case.md": "TiSwitch",
   "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung/3. Bitweise Operatoren.md": "LiJoystick",
   "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung/1. If-Anweisungen.md": "FasMagnifyingGlass",
-  "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung": "🧱"
+  "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung": "🧱",
+  "DHBW Heidenheim/2024 SoSe/Rhetorik/Raster.md": "🗣"
 }
