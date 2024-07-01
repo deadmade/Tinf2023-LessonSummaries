@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🧱",
-      "FasMagnifyingGlass",
-      "LiJoystick",
-      "TiSwitch",
-      "RiGlobalFill"
+      "IbDocumentText",
+      "LiSun",
+      "LiGlobe",
+      "FasComputer",
+      "TiShield"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -139,5 +139,14 @@
   "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung/2. Switch Case.md": "TiSwitch",
   "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung/3. Bitweise Operatoren.md": "LiJoystick",
   "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung/1. If-Anweisungen.md": "FasMagnifyingGlass",
-  "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung": "🧱"
+  "DHBW Heidenheim/2023 WiSe/Programmieren 1/C/3.Strukturierte Programmierung": "🧱",
+  "DHBW Heidenheim/2024 SoSe/Mathematik": "TiMath",
+  "DHBW Heidenheim/2024 SoSe/Netzwerktechnik": "TiNetwork",
+  "DHBW Heidenheim/2024 SoSe/Programmierung": "LiCode",
+  "DHBW Heidenheim/2024 SoSe/Projektmanagement": "OcProjectRoadmap16",
+  "DHBW Heidenheim/2024 SoSe/Sichere Programmierung": "TiShield",
+  "DHBW Heidenheim/2024 SoSe/Theoretische Informatik": "FasComputer",
+  "DHBW Heidenheim/2024 SoSe/Web Engineering": "LiGlobe",
+  "DHBW Heidenheim/2024 SoSe": "LiSun",
+  "DHBW Heidenheim/2024 SoSe/Wissenschaftliches Arbeiten": "IbDocumentText"
 }
