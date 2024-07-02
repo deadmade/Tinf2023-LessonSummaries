@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandPython",
-      "LiCode",
-      "LiSchool",
-      "RiAttachment2",
-      "TiDeviceIpadExclamation"
+      "LiView",
+      "RiTaskLine",
+      "LiPersonStanding",
+      "LiGraduationCap",
+      "RaLightBulb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,13 @@
   "DHBW Heidenheim/2023 WiSe/Attatchments": "RiAttachment2",
   "DHBW Heidenheim": "LiSchool",
   "DHBW Heidenheim/2023 WiSe/Programmieren 1": "LiCode",
-  "DHBW Heidenheim/2023 WiSe/Python": "TiBrandPython"
+  "DHBW Heidenheim/2023 WiSe/Python": "TiBrandPython",
+  "DHBW Heidenheim/2023 WiSe/Digitaltechnik/Schaltalgebra": "⚙",
+  "DHBW Heidenheim/2023 WiSe/Digitaltechnik/Schaltalgebra/Logische Grundfunktionen": "LiHammer",
+  "DHBW Heidenheim/2023 WiSe/Digitaltechnik/Schaltalgebra/Schaltungsvereinfachung.md": "CoPuzzle",
+  "DHBW Heidenheim/2023 WiSe/Web Engineering/Geschichte des Internets/Funktionsweise des WWW.md": "RaLightBulb",
+  "DHBW Heidenheim/2023 WiSe/Web Engineering/Rechtliche Aspekte/DSGVO.md": "LiGraduationCap",
+  "DHBW Heidenheim/2023 WiSe/Web Engineering/Rechtliche Aspekte/Urheberrecht.md": "LiPersonStanding",
+  "DHBW Heidenheim/2023 WiSe/Python/Programmieraufgaben.md": "RiTaskLine",
+  "DHBW Heidenheim/2023 WiSe/Python/Python Überblick.md": "LiView"
 }
