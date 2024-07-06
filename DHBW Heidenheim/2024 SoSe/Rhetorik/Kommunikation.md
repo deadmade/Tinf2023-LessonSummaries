@@ -1,0 +1,18 @@
+- 75% Körpersprache
+	- Haltung
+	- Mimik
+	- Gestik
+	- Gang
+	- Kleidung
+	- Brille
+	- Schminke
+	- Haare
+	- Händedruck
+- 20% Aussprache (Wie?)
+	- Deutlisch
+	- Lautstärke
+	- Schnelligkeit
+	- Hoch
+	- Tief
+	- Dialekt
+- 5% Inhalt (Was?)
