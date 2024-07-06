@@ -57,18 +57,6 @@ var SearchCursor = class {
     this._caret = this._to;
     return match;
   }
-  findPrevious() {
-    const reverseRegex = new RegExp(`(?<full>${this.regex.source})(?!.*[\\r\\n]*.*\\k<full>)`, this.regex.flags);
-    const text = this.text.slice(0, this._caret);
-    const lastMatch = text.match(reverseRegex);
-    if ((lastMatch == null ? void 0 : lastMatch.index) == null || (lastMatch == null ? void 0 : lastMatch.groups) == null) {
-      return void 0;
-    }
-    this._from = lastMatch.index;
-    this._to = lastMatch.index + lastMatch.groups.full.length;
-    this._caret = this._from;
-    return lastMatch;
-  }
   to() {
     return this._to;
   }
@@ -166,6 +154,7 @@ var SymbolsPrettifier = class extends import_obsidian.Plugin {
         const cursor = view.editor.getCursor();
         if (event.key === " ") {
           const line = view.editor.getLine(cursor.line);
+          console.log(line);
           let from = -1;
           let sequence = "";
           for (let i = cursor.ch - 1; i >= 0; i--) {
@@ -181,7 +170,7 @@ var SymbolsPrettifier = class extends import_obsidian.Plugin {
             }
           }
           const replaceCharacter = characterMap[sequence];
-          if (replaceCharacter && from !== -1 && !this.isCursorInCodeBlock(view.editor)) {
+          if (replaceCharacter && from !== -1 && typeof replaceCharacter !== "function" && !this.isCursorInUnwantedBlocks(view.editor)) {
             if (typeof replaceCharacter === "string") {
               view.editor.replaceRange(replaceCharacter, { line: cursor.line, ch: from }, { line: cursor.line, ch: cursor.ch });
             } else {
@@ -207,16 +196,17 @@ var SymbolsPrettifier = class extends import_obsidian.Plugin {
     }
     return result;
   }
-  isCursorInCodeBlock(editor) {
-    const codeBlock = /```\w*[^`]+```/;
-    const searchCursor = new SearchCursor(editor.getValue(), codeBlock, 0);
-    let cursor;
-    while ((cursor = searchCursor.findNext()) !== void 0) {
-      const offset = editor.posToOffset(editor.getCursor());
-      if (searchCursor.from() <= offset && searchCursor.to() >= offset) {
-        return true;
+  isCursorInUnwantedBlocks(editor) {
+    const unwantedBlocks = [new RegExp("(?<!`)`[^`\\n]+`(?!`)"), /```\w*\s*[\s\S]*?```/];
+    return unwantedBlocks.filter((unwantedBlock) => {
+      const searchCursor = new SearchCursor(editor.getValue(), unwantedBlock, 0);
+      while (searchCursor.findNext() !== void 0) {
+        const offset = editor.posToOffset(editor.getCursor());
+        if (searchCursor.from() <= offset && searchCursor.to() >= offset) {
+          return true;
+        }
       }
-    }
-    return false;
+      return false;
+    }).length !== 0;
   }
 };
