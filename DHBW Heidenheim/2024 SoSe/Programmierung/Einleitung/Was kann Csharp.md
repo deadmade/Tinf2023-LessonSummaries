@@ -14,7 +14,7 @@
   - C# ist eine stark typisierte Sprache, die strikte Typprüfungen zur Kompilierzeit durchführt, wodurch Fehler frühzeitig erkannt werden.
 
 - **🐢 Leistungsfähigkeit**:
-  - Im Vergleich zu Sprachen wie C++ kann C# langsamer sein aufgrund der zusätzlichen Abstraktionsebenen und der Garbage Collection. [[Leistung]]
+  - Im Vergleich zu Sprachen wie C++ kann C# langsamer sein aufgrund der zusätzlichen Abstraktionsebenen und der Garbage Collection. [[Vergleich von Programmiersprachen]]
 
 - **🚀 Unterstützung für verschiedene Technologien**:
   - **📊 Datenbanken**:
