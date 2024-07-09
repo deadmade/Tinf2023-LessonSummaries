@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiSpeakLine",
       "LiInfo",
       "RiAttachment2",
       "LiView",
-      "RiTaskLine",
-      "LiPersonStanding"
+      "RiTaskLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,6 @@
   "DHBW Heidenheim/2024 SoSe/Programmierung/Einleitung": "LiInfo",
   "DHBW Heidenheim/2024 SoSe/Rhetorik/Attatchments": "RiAttachment2",
   "DHBW Heidenheim/2024 SoSe/Projektmanagement/Attatchments": "RiAttachment2",
-  "DHBW Heidenheim/2024 SoSe/Projektmanagement/Einführung": "LiInfo"
+  "DHBW Heidenheim/2024 SoSe/Projektmanagement/Einführung": "LiInfo",
+  "DHBW Heidenheim/2024 SoSe/Rhetorik": "RiSpeakLine"
 }
