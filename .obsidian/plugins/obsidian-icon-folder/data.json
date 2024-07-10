@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiVimeoFill",
       "LiSnapToObject",
       "RiSpeakLine",
       "LiInfo",
-      "RiAttachment2",
-      "LiView"
+      "RiAttachment2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,9 +70,9 @@
   "DHBW Heidenheim/2024 SoSe/Programmierung/Attatchments": "RiAttachment2",
   "DHBW Heidenheim/2024 SoSe/Programmierung/Einleitung": "LiInfo",
   "DHBW Heidenheim/2024 SoSe/Rhetorik/Attatchments": "RiAttachment2",
-  "DHBW Heidenheim/2024 SoSe/Programmierung/Vim-Tutorial": "RiVimeoFill"
   "DHBW Heidenheim/2024 SoSe/Rhetorik": "RiSpeakLine",
   "DHBW Heidenheim/2024 SoSe/Programmierung/OOP": "LiSnapToObject",
   "DHBW Heidenheim/2024 SoSe/Projektmanagement/Attatchments": "RiAttachment2",
-  "DHBW Heidenheim/2024 SoSe/Projektmanagement/Einführung": "LiInfo"
+  "DHBW Heidenheim/2024 SoSe/Projektmanagement/Einführung": "LiInfo",
+  "DHBW Heidenheim/2024 SoSe/Programmierung/Vim-Tutorial": "RiVimeoFill"
 }
