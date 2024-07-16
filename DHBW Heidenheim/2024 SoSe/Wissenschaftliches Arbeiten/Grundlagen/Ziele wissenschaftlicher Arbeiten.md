@@ -1,0 +1,3 @@
+- Eigenständiger Beitrag
+- Profilierung
+- Tiefes Verständnis (Expertenwissen) aufbauen
