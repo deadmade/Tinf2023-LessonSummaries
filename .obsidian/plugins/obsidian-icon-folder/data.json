@@ -30,7 +30,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "DHBW Heidenheim/2023 WiSe": "LiSnowflake",
   "DHBW Heidenheim/2023 WiSe/Digitaltechnik": "LiCircuitBoard",
@@ -76,5 +77,6 @@
   "DHBW Heidenheim/2024 SoSe/Projektmanagement/Attatchments": "RiAttachment2",
   "DHBW Heidenheim/2024 SoSe/Projektmanagement/Einführung": "LiInfo",
   "DHBW Heidenheim/2024 SoSe/Programmierung/Vim-Tutorial": "RiVimeoFill",
-  "DHBW Heidenheim/2024 SoSe/Netzwerktechnik/Attatchments": "RiAttachment2"
+  "DHBW Heidenheim/2024 SoSe/Netzwerktechnik/Attatchments": "RiAttachment2",
+  "DHBW Heidenheim/2024 SoSe/Theoretische Informatik/Attatchments": "RiAttachment2"
 }
