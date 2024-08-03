@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandPhp",
       "RiVimeoFill",
       "LiSnapToObject",
       "RiSpeakLine",
-      "LiInfo",
-      "RiAttachment2"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,7 @@
   "DHBW Heidenheim/2024 SoSe/Programmierung/Vim-Tutorial": "RiVimeoFill",
   "DHBW Heidenheim/2024 SoSe/Netzwerktechnik/Attatchments": "RiAttachment2",
   "DHBW Heidenheim/2024 SoSe/Theoretische Informatik/Attatchments": "RiAttachment2",
-  "DHBW Heidenheim/2024 SoSe/Mathematik/Attatchments": "RiAttachment2"
+  "DHBW Heidenheim/2024 SoSe/Mathematik/Attatchments": "RiAttachment2",
+  "DHBW Heidenheim/2024 SoSe/Web Engineering/Attatchments": "RiAttachment2",
+  "DHBW Heidenheim/2024 SoSe/Web Engineering/PHP": "TiBrandPhp"
 }
