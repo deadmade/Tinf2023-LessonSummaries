@@ -1,6 +1,1 @@
-Gamer <- -> Switch 
-eSport <- -> Switch                  <- -> Router
-Chill <- -> Switch 
-
-
-6
+![[Übung.jpeg]]
