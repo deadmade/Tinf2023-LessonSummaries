@@ -49,8 +49,7 @@ Die gesamte Zeitkomplexität ist daher $O(N2)$
 >        }
 >    }
 >}
-
-```
+>```
 
 ## Video
 ![](https://www.youtube.com/watch?v=92BfuxHn2XE&list=PLZh3kxyHrVp_AcOanN_jpuQbcMVdXbqei&index=11)
