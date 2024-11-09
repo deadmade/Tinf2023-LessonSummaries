@@ -1,0 +1,24 @@
+name: Sync Obsidian Notes to MkDocs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Copy files to MkDocs branch
+        run: |
+          git checkout mkdocs || git checkout -b mkdocs
+          rsync -av --exclude '.git' ./ /docs/
+          git add docs/
+          git commit -m "Sync notes from main branch"
+          git push origin mkdocs --force
