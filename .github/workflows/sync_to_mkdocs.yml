@@ -20,7 +20,7 @@ jobs:
           git config --global user.email "your-email@example.com"
           git config --global user.name "Your Name"
           git checkout mkdocs || git checkout -b mkdocs
-          rsync -av --exclude '.git' --exclude '.obsidian' --exclude '.gitignore' --exclude '.gitattributes' ./ ./docs/
+          rsync -av --exclude '.git' --exclude '.obsidian' --exclude '.gitignore' --exclude '.gitattributes' --exclude '.github' ./ ./docs/
           git add docs/
           git commit -m "Sync notes from main branch"
           git push origin mkdocs --force
