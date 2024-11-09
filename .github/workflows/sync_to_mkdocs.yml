@@ -17,8 +17,8 @@ jobs:
 
       - name: Copy files to MkDocs branch
         run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "manuel.schuelein@proton.me"
+          git config --global user.name "deadmade"
           git checkout mkdocs || git checkout -b mkdocs
           rsync -av --exclude '.git' --exclude '.obsidian' --exclude '.gitignore' --exclude '.gitattributes' --exclude '.github' ./ ./docs/
           git add docs/
