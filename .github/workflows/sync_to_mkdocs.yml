@@ -17,16 +17,13 @@ jobs:
 
       - name: Copy files to MkDocs branch
         run: |
-          git config --global user.email "manuel.schuelein@proton.me"
-          git config --global user.name "deadmade"
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
           git checkout mkdocs || git checkout -b mkdocs
           rsync -av --exclude '.git' ./ ./docs/
           git add docs/
           git commit -m "Sync notes from main branch"
-
-      - name: Push to mkdocs branch
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/deadmade/Tinf2023-LessonSummaries.git
           git push origin mkdocs --force
+        env:
+          # Use the token for authentication
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
