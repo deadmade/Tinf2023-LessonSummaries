@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandPhp",
-      "RiVimeoFill",
-      "LiSnapToObject",
-      "RiSpeakLine",
-      "LiInfo"
+      "LiDatabase",
+      "LiComputer",
+      "RiComputerLine",
+      "TiMath",
+      "TiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false,
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "DHBW Heidenheim/2023 WiSe": "LiSnowflake",
   "DHBW Heidenheim/2023 WiSe/Digitaltechnik": "LiCircuitBoard",
@@ -81,5 +82,11 @@
   "DHBW Heidenheim/2024 SoSe/Theoretische Informatik/Attatchments": "RiAttachment2",
   "DHBW Heidenheim/2024 SoSe/Mathematik/Attatchments": "RiAttachment2",
   "DHBW Heidenheim/2024 SoSe/Web Engineering/Attatchments": "RiAttachment2",
-  "DHBW Heidenheim/2024 SoSe/Web Engineering/PHP": "TiBrandPhp"
+  "DHBW Heidenheim/2024 SoSe/Web Engineering/PHP": "TiBrandPhp",
+  "DHBW Heidenheim/2025 WiSe": "LiSnowflake",
+  "DHBW Heidenheim/2025 WiSe/Technische Informatik II": "RiComputerLine",
+  "DHBW Heidenheim/2025 WiSe/Theoretische Informatik III": "LiComputer",
+  "DHBW Heidenheim/2025 WiSe/Netzwerktechnik": "TiNetwork",
+  "DHBW Heidenheim/2025 WiSe/Datenbanken": "LiDatabase",
+  "DHBW Heidenheim/2025 WiSe/Mathematik II": "TiMath"
 }
