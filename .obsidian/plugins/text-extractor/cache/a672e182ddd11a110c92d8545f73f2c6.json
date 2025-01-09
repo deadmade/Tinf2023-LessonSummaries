@@ -1,0 +1,1 @@
+{"path":"DHBW Heidenheim/2024 SoSe/Programmierung/Attatchments/Pasted image 20240706090108.png","text":"2. Beseitigen Sie bitte alle Fehler im folgenden Programm: class Prog { static void Main() { float pi = 3,141593; double radius = 2,0; System.Console.WriteLine('Der Flächeninhalt beträgt: {@:f3}', pi * radius * radius); } }","libVersion":"0.3.2","langs":"deu+eng"}
