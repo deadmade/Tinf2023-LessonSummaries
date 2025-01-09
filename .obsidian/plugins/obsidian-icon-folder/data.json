@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiEngine",
       "LiDatabase",
       "LiComputer",
       "RiComputerLine",
-      "TiMath",
-      "TiNetwork"
+      "TiMath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,6 @@
   "DHBW Heidenheim/2025 WiSe/Theoretische Informatik III": "LiComputer",
   "DHBW Heidenheim/2025 WiSe/Netzwerktechnik": "TiNetwork",
   "DHBW Heidenheim/2025 WiSe/Datenbanken": "LiDatabase",
-  "DHBW Heidenheim/2025 WiSe/Mathematik II": "TiMath"
+  "DHBW Heidenheim/2025 WiSe/Mathematik II": "TiMath",
+  "DHBW Heidenheim/2025 WiSe/Software Engineering": "TiEngine"
 }
