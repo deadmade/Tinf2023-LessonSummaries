@@ -13,7 +13,8 @@ graph TD
 ```
 
 ## Traditionelle Datenverarbeitung (ca. 2000)
-![Pasted image 20250113124050.png]
+Bei der traditionellen Datenverarbeitung werden die Daten fast ausschließlich innerhalb eines Unternehmensnetzwerkes (Campus) verarbeitet und konsumiert. Die Daten werden im Unternehmensnetzwerk (im eigenen Rechenzentrum) erzeugt und dort zentral in Speichersystemen gespeichert
+![[Pasted image 20250113124050.png]]
 
 In den frühen 2000er-Jahren prägten folgende Entwicklungen die IT-Landschaft:
 1. **Internationalisierung**: Ermöglichte eine weltweite Vernetzung durch das Internet.
@@ -61,3 +62,5 @@ Defense in Depth beschreibt ein mehrschichtiges Sicherheitsmodell, das Bedrohung
   - **Vorfallmanagement:** Definition klarer Prozesse für die Behebung von Sicherheitsvorfällen.
 
 Dieses mehrstufige Sicherheitskonzept stellt sicher, dass Bedrohungen nicht nur abgewehrt, sondern auch frühzeitig erkannt und effektiv bekämpft werden.
+
+![[{D34490F8-1AA7-4E29-9A41-33F78ADFF94E}.png]]
