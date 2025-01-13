@@ -1,0 +1,4 @@
+- Ungesicherter FTP Endpunkt
+- Phising (Jeder hat Admin Rechte auf PC)
+- Relativ Ungesicherten Zugriff auf Lokale Server
+- Langsame bis gar keine Updates
