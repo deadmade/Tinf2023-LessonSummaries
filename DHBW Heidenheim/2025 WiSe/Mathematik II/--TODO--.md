@@ -1,1 +1,1 @@
-- [ ] Übungsblatt 3
+- [x] Übungsblatt 3
