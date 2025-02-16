@@ -1,0 +1,1 @@
+Umfasst die formalen Regeln für den grammatikalischen Aufbau einer [[Sprache]]
